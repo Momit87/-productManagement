@@ -1,0 +1,5 @@
+Product ID : Mahir
+Product Category : Electronics
+Product Name : Computer
+Customer ID : C213087
+Price : 50000

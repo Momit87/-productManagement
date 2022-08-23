@@ -1,0 +1,3 @@
+Product ID : Mahir
+Product Category : Electronics
+Product Name : Computer
